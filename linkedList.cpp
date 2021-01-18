@@ -47,8 +47,9 @@ void display(node* head){                 // we use by value bcz we have dont ha
 }
 /*-----------------------------------*/
 
-/*------------- Search -------------*/
-bool search(node* head, int val){     // searching in linkedLIst
+/*------------- Search in linkedlist -------------*/
+bool search(node *head, int val)
+{
     node* temp = head;
     while(temp != NULL){
         if(temp->data == val)
