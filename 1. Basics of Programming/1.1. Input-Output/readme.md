@@ -25,3 +25,26 @@
     ```
     Project Hades
     ```
+* cin - It is used to read input from the standard input device which is usually a keyboard.The extraction operator(>>) is used along with the object cin for reading inputs.
+     ```
+        #include <iostream>
+        using namespace std;
+ 
+        int main(){
+            int age;
+            cout << "Enter your age:";
+            cin >> age;
+            cout << "\nYour age is: " << age;
+            return 0;
+        }
+    ```
+    Input:
+    ```
+    18
+    ```
+    Output:
+    ```
+    Enter your age:
+    Your age is: 18
+    ```
+* The above program asks the user to input the age. The object cin is connected to the input device. The age entered by the user is extracted from cin using the extraction operator(>>) and the extracted data is then stored in the variable age present on the right side of the extraction operator.
