@@ -20,6 +20,7 @@
 	        cout << sample << " ";
 	        return 0;
         }
+    ```
     Output:
         ```
         Project Hades
