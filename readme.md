@@ -5,7 +5,7 @@ Note:- This repo will be in C++. As it's easy and fast for Competative Programmi
 ---
 So, structure of track is as follows:
 * Basics of any programming language
-    - [Input/Outpu]()
+    - [Input/Outpu](https://github.com/zeus2611/DSA-Track/tree/main/1.%20Basics%20of%20Programming/1.1.%20Input-Output)
     - [Operators]()
     - [Data Types]()
     - [Binary Number System]()
