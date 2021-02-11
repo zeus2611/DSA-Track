@@ -1,5 +1,5 @@
-## Hi, I'm [Nischay](https://nischay.github.io),
-And in this Repository I'll be uploadig all the resources that i find will be helpful in accelerating your progress toward your understanding of Data Structures and Algorithms.
+## Hi, We're [Nischay](https://nischay.github.io) and ,
+And in this Repository We'll be uploadig all the resources that we find will be helpful in accelerating your progress toward your understanding of Data Structures and Algorithms.
 ---
 Note:- This repo will be in C++. As it's easy and fast for Competative Programming. 
 ---
@@ -35,4 +35,4 @@ So, structure of track is as follows:
     - [Inheritance]()
     - [Polymorphism]()
 
-I'll will keep upadting the repo with new content frequently.
+We'll will keep upadting the repo with new content frequently.
