@@ -20,4 +20,4 @@
 	        cout << sample << " ";
 	        return 0;
         }
-    ```
+        
