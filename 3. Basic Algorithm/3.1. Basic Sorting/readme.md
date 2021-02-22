@@ -22,6 +22,8 @@
         ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
 
 
+
+
 ## Insertion Sort
 * ### Insertion sort is a simple sorting algorithm. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
     Algorithm:
@@ -49,6 +51,8 @@
 
         When i = 4. 6 will move to position after 5, and elements from 11 to 13 will move one position ahead of their current position.
         5, 6, 11, 12, 13
+
+
 
 
 ## Selection Sort
