@@ -1,6 +1,6 @@
 ## Bubble Sort
 * ### Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
-    Algorithm:
+    Example:
     
         First Pass:
         ( 5 1 4 2 8 ) –> ( 1 5 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 > 1.
