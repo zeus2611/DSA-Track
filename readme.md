@@ -1,4 +1,4 @@
-## Hi, We're [Nischay](https://nischay.github.io) and ,
+## Hi, We're Project Hades,
 And in this Repository We'll be uploadig all the resources that we find will be helpful in accelerating your progress toward your understanding of Data Structures and Algorithms.
 ---
 Note:- This repo will be in C++. As it's easy and fast for Competative Programming. 
