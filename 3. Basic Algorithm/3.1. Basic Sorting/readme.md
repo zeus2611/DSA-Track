@@ -1,3 +1,28 @@
+## Bubble Sort
+* ### Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+    Algorithm:
+    
+        First Pass:
+        ( 5 1 4 2 8 ) –> ( 1 5 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 > 1.
+        ( 1 5 4 2 8 ) –>  ( 1 4 5 2 8 ), Swap since 5 > 4
+        ( 1 4 5 2 8 ) –>  ( 1 4 2 5 8 ), Swap since 5 > 2
+        ( 1 4 2 5 8 ) –> ( 1 4 2 5 8 ), Now, since these elements are already in order (8 > 5), algorithm does not swap them.
+
+        Second Pass:
+        ( 1 4 2 5 8 ) –> ( 1 4 2 5 8 )
+        ( 1 4 2 5 8 ) –> ( 1 2 4 5 8 ), Swap since 4 > 2
+        ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
+        ( 1 2 4 5 8 ) –>  ( 1 2 4 5 8 )
+        Now, the array is already sorted, but our algorithm does not know if it is completed. The algorithm needs one whole pass without any swap to know it is sorted.
+
+        Third Pass:
+        ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
+        ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
+        ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
+        ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 )
+
+---
+
 ## Insertion Sort
 * ### Insertion sort is a simple sorting algorithm. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
     Algorithm:
@@ -9,7 +34,7 @@
         4: Move the greater elements one position up to make space for the swapped element.
 
     Example:
-    
+
         Let us take a Array: 12, 11, 13, 5, 6
 
         Let us loop for i = 1 (second element of the array) to 4 (last element of the array)
@@ -26,16 +51,3 @@
         When i = 4. 6 will move to position after 5, and elements from 11 to 13 will move one position ahead of their current position.
         5, 6, 11, 12, 13
 
-
-        
-
-## Insertion Sort
-* ### Insertion sort is a simple sorting algorithm. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
-    Algorithm:
-    
-        To sort an array of size n in ascending order:
-        1: Iterate from arr[1] to arr[n] over the array.
-        2: Compare the current element (key) to its predecessor.
-        3: If the key element is smaller than its predecessor, compare it to the elements before. 
-        4: Move the greater elements one position up to make space for the swapped element.
-        
