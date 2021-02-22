@@ -1,5 +1,5 @@
 ## Bubble Sort
-* ### Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+*  Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
     Example:
     
         First Pass:
@@ -25,7 +25,7 @@
 
 
 ## Insertion Sort
-* ### Insertion sort is a simple sorting algorithm. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+*  Insertion sort is a simple sorting algorithm. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
     Algorithm:
 
         To sort an array of size n in ascending order:
@@ -56,7 +56,7 @@
 
 
 ## Selection Sort
-* ### The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
+*  The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 
     1) The subarray which is already sorted.
     2) Remaining subarray which is unsorted.
