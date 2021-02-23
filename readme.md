@@ -8,8 +8,8 @@ Note:- This repo will be in C++. As it's easy and fast for Competative Programmi
 So, structure of track is as follows:
 * Basics of any programming language
     - [Binary Number System](https://www.tutorialspoint.com/computer_fundamentals/computer_number_system.htm)
-    - [Data Types]()
-    - [Conditional Statements]()
+    - [Data Types](https://github.com/zeus2611/DSA-Track/tree/main/1.%20Basics%20of%20Programming/1.1.%20Data%20Type)
+    - [Conditional Statements](https://github.com/zeus2611/DSA-Track/tree/main/1.%20Basics%20of%20Programming/1.2.%20Conditional%20Statements)
     - [Loops]()
     - [Functions]()
     - [Time Complexity]()
