@@ -7,3 +7,5 @@
     Arithmetic operator are of two types:
     - Unary Operators: Operators that operates or works with a single operand are unary operators. For example: (++ , –)
     - Binary Operators: Operators that operates or works with two operands are binary operators. For example: (+ , – , * , /)
+
+* 

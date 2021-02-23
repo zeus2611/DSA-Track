@@ -7,10 +7,8 @@ Note:- This repo will be in C++. As it's easy and fast for Competative Programmi
 
 So, structure of track is as follows:
 * Basics of any programming language
-    - [Input/Outpu](https://github.com/zeus2611/DSA-Track/tree/main/1.%20Basics%20of%20Programming/1.1.%20Input-Output)
-    - [Operators](https://github.com/zeus2611/DSA-Track/tree/main/1.%20Basics%20of%20Programming/1.2.%20Operators)
+    - [Binary Number System](https://www.tutorialspoint.com/computer_fundamentals/computer_number_system.htm)
     - [Data Types]()
-    - [Binary Number System]()
     - [Conditional Statements]()
     - [Loops]()
     - [Functions]()
