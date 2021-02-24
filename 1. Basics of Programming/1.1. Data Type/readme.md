@@ -24,7 +24,7 @@ Data type modifiers available in C++ are:
 - Unsigned
 - Short
 - Long
-<Align="Centre">
+
 | Data Type     | size (in byte) |  Range  |
 | ------------- | -------------- | ------- |
 | short int |	2	| -32,768 to 32,767 |
@@ -40,4 +40,3 @@ Data type modifiers available in C++ are:
 |float	|4	| | 
 |double	| 8	 | |
 |long double	| 12| |
-</Align>
