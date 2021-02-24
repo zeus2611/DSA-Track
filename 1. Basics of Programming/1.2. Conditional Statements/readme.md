@@ -1,11 +1,16 @@
-### In this section we dicuss different types of oprations we can perform in a C++ Program.
+# Conditional Statements:
+
 </br>
-<img align="centre"  alt="operators" src="https://www.geeksforgeeks.org/wp-content/uploads/Operators-In-C.png" />
+<img align="right" height='180px' alt="GIF" src="https://media.geeksforgeeks.org/wp-content/uploads/decision-making-c-1.png" />
 
-* Arithmetic Operators: These are the operators used to perform arithmetic/ mathematical operations on operands. Examples: (+, -, *, /, %,++,–). 
-    
-    Arithmetic operator are of two types:
-    - Unary Operators: Operators that operates or works with a single operand are unary operators. For example: (++ , –)
-    - Binary Operators: Operators that operates or works with two operands are binary operators. For example: (+ , – , * , /)
+**if Statement:**
 
-* 
+if statement is the most simple decision making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statement is executed otherwise not.
+
+Syntax:
+
+    if(condition) 
+    {
+        // Statements to execute if
+        // condition is true
+    }
