@@ -1,7 +1,7 @@
 # Conditional Statements:
 
 </br>
-<img align="right" height='180px' alt="GIF" src="https://media.geeksforgeeks.org/wp-content/uploads/decision-making-c-1.png" />
+<img align="right" height='250px' alt="GIF" src="https://media.geeksforgeeks.org/wp-content/uploads/decision-making-c-1.png" />
 
 **if Statement:**
 
