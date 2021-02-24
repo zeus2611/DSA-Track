@@ -40,3 +40,5 @@ Data type modifiers available in C++ are:
 |float	|4	| | 
 |double	| 8	 | |
 |long double	| 12| |
+
+<b>Note:</b> Above values may vary from compiler to compiler. In the above example, we have considered GCC 32 bit.
