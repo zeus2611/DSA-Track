@@ -4,8 +4,15 @@ All variables use data-type during declaration to restrict the type of data to b
 
 <div style="text-align:center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113115600/DatatypesInC.png" /></div>
 
+<b>Note</b>: We Will be maily discussing primary data types in this article.
 
-
-* <b>Primitive Data Types</b>: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char , float, bool etc.
+<b>Primitive Data Types</b>: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char , float, bool etc.
     
     Primitive data types available in C++ are: 
+    - Integer
+    - Character
+    - Boolean
+    - Floating Point
+    - Double Floating Point
+    - Valueless or Void
+    - Wide Character
