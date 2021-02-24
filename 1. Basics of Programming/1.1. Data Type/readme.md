@@ -7,4 +7,5 @@ All variables use data-type during declaration to restrict the type of data to b
 
 
 * <b>Primitive Data Types</b>: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char , float, bool etc.
+    
     Primitive data types available in C++ are: 
