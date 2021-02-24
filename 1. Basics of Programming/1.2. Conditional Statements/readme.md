@@ -69,7 +69,7 @@ Syntax:
 </br>
 </br>
 
-**Jump Statements:**
+# **Jump Statements:**
 
 <img align="left" height="200" alt="GIF" src="https://media.geeksforgeeks.org/wp-content/uploads/break.png" />
 
