@@ -39,7 +39,7 @@ int printNodesAtK(Node* root, Node* target, int k){
     }
     if(root == target){
         printSubTreeNode(root, k);
-        return git0;
+        return 0;
     }
     int dl = printNodesAtK(root->left,target, k);
     if(dl != -1){
