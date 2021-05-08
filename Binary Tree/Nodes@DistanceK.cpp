@@ -32,7 +32,7 @@ void printSubTreeNode(Node* root, int k){
     printSubTreeNode(root->right, k-1);
 }
 
-//Case 2 - used for cal ancestor node
+//Case 2
 int printNodesAtK(Node* root, Node* target, int k){
     if(root == NULL){
         return -1;
